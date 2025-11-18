@@ -1,0 +1,18 @@
+.red {color:red; }
+.green { color: green; }
+.purple { color: purple; }
+.orange { color: orange; }
+.blue { color: blue; }
+.bold { font-weight: bold; }
+
+.xxsmall { font-size: 8px; }
+.xsmall  { font-size: 10px; }
+.small   { font-size: 12px; }
+.medium  { font-size: 14px; }
+.large   { font-size: 18px; }
+.xlarge  { font-size: 24px; }
+.xxlarge { font-size: 32px; }
+
+head {
+  display: none;
+}
